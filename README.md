@@ -4,7 +4,8 @@
 
 A calendar workflow that integrates your Apple Calendar events. Navigate the months by typing ` > ` to move forward or ` < ` to move backward. Enter the name of a month in natural language to jump to that month. Enter a valid year to jump to the active month of that year. 
 
-![](images/calpp-locale.gif)
+![](images/calpp-month.jpg)
+![](images/calpp-events.jpg)
 
 **Use**   ` cal [ month ] [ year ] [ < ] [ > ] `  
 **Example**		` cal october 2023 >> `
@@ -34,7 +35,7 @@ Make sure you set the correct font and size in the workflow configuration to get
 - Several customizations (See the workflow configuration)
 - Search your events (Default Keyword: `cals`)
 
-![](images/calpp-events.jpg)
+
 
 
 ## Calendar Search
@@ -43,3 +44,4 @@ Make sure you set the correct font and size in the workflow configuration to get
 **Exampe** 	` cals example `
 
 ![](images/calpp-search.jpg)
+![](images/calpp-locale.gif)
