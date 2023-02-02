@@ -1,6 +1,9 @@
 
-# Calendar++
+<h1 align="center">Alfred Calendar++</h1>
 
+<p align="center">
+	<a href="https://github.com/zeitlings/alfred-calendar/releases"><img src="https://img.shields.io/github/v/release/zeitlings/alfred-calendar.svg" alt="GitHub Release"></a>
+</p>
 
 A calendar workflow that integrates your Apple Calendar events. Navigate the months by typing ` > ` to move forward or ` < ` to move backward. Enter the name of a month in natural language to jump to that month. Enter a valid year to jump to the active month of that year. 
 
