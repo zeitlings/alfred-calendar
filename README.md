@@ -1,5 +1,5 @@
 
-<h1 align="center">Alfred Calendar++</h1>
+<h1 align="center"><img src="images/icon.png" width="64" height="64"></br>Alfred Calendar++</h1>
 
 <p align="center">
 	<a href="https://github.com/zeitlings/alfred-calendar/releases"><img src="https://img.shields.io/github/v/release/zeitlings/alfred-calendar.svg" alt="GitHub Release"></a>
