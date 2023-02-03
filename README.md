@@ -8,7 +8,8 @@
 A calendar workflow that integrates your Apple Calendar events. Navigate the months by typing ` > ` to move forward or ` < ` to move backward. Enter the name of a month in natural language to jump to that month. Enter a valid year to jump to the active month of that year. 
 
 ![](images/calpp-month.jpg)
-![](images/calpp-events.jpg)
+![](images/calpp-events-a.jpg)
+<!--![](images/calpp-events.jpg)-->
 
 **Use**   ` cal [ month ] [ year ] [ < ] [ > ] `  
 **Example**		` cal october 2023 >> `
