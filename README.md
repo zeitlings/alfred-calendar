@@ -1,5 +1,5 @@
 
-<h1 align="center"><img src="images/icon.png" width="50" height="50"></br>Alfred Calendar++</h1>
+<h1 align="center"><img src="images/icon.png" width="75" height="75"></br>Alfred Calendar++</h1>
 
 <!--
 <p align="center">
@@ -7,12 +7,12 @@
 </p>
 -->
 
-A feature rich block calendar workflow with Apple Calendar integration to __view__, __create__, and __search__ calendar events, or to review your upcoming __agenda__.
+A feature-rich block calendar workflow with Apple Calendar integration to __view__, __create__, and __search__ calendar events, or to check your upcoming __agenda__.
 
 ## Setup
 
 1. Install the [SF Pro font](https://developer.apple.com/fonts/) from Apple to see the icons
-2. Ensure Alfred has [permissions](https://www.alfredapp.com/help/getting-started/permissions/) to access calendar events[^1]
+2. Ensure Alfred has [permission](https://www.alfredapp.com/help/getting-started/permissions/) to access calendar events[^1]
 3. Ensure you are not using an Alfred default theme
 
 
