@@ -18,9 +18,8 @@ A feature rich block calendar workflow with Apple Calendar integration to __view
 
 ## How to Use
 
-The heart of workflow is the __Block Calendar__.
-- Activate the workflow with the keyword (default: `cc`) or by using the [hotkey](https://www.alfredapp.com/help/workflows/triggers/hotkey/).
-- Quick access keywords for the __agenda__, creating __new events__, and the global __search__ are derived from the keyword by appending __a__, __n__, or __s__. Default: `cca`, `ccn`, `ccs`.
+Activate the workflow with the keyword (default: `cc`) or by using the [hotkey](https://www.alfredapp.com/help/workflows/triggers/hotkey/). 
+Quick access keywords for the __agenda__, creating __new events__, and the global __search__ are derived from the keyword by appending __a__, __n__, or __s__: `cca`, `ccn`, `ccs`.
 
 
 ### Block Calendar
@@ -85,14 +84,14 @@ Quick access keyword: `ccn`
 1. __Type__ to specify the new event.
 + `<` or `>` to modify the day
 + `+` or `-` to modify the time
-	- __Note__: Only `+` and `-` symbols at the very beginning or end will be considered to ensure their normal use everywhere else.
+	- > __Note__: Only `+` and `-` symbols at the very beginning or end will be considered to ensure their normal use everywhere else.
 + `(note)` to add a note
 + `(@location)` to add a location
 + `(=calendar)` to specify a calendar
 + `(!title)` to ensure that some text is registered only as title 
 + `!allday` to create an all day event
 + `https://example.com` to add a URL to the event
-2. <kbd>⌥</kbd> to view a cheat sheet
+2. <kbd>⌥</kbd> to view the cheat sheet
 3. <kbd>⌘</kbd><kbd>L</kbd> to view the info of the new calendar event as [large type](https://www.alfredapp.com/help/features/large-type)
 
 > [!NOTE] 
@@ -125,7 +124,7 @@ __Type__ to find events based on your query.
 
 
 [^1]: If the access problem persists, try dragging the `calpp` executable into the list of apps with access (see [#2](https://github.com/zeitlings/alfred-calendar/issues/2#issuecomment-2132736512)).  
-[^2]: For example, `cc jan 2025 <<<` reveals October 2024.
+[^2]: For example, `cc jan 2025 <<<` reveals the block calendar October 2024.
 
 
 
