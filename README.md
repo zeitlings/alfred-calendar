@@ -119,8 +119,6 @@ __Type__ to find events based on your query.
 - <img src="images/symbols/recurring.png" width="25"> The event is a recurring event
 - <img src="images/symbols/videocall.png" width="25"> An online meeting is associated with the event
 
----
-
 
 [^1]: If the access problem persists, try dragging the `calpp` executable into the list of apps with access (see [#2](https://github.com/zeitlings/alfred-calendar/issues/2#issuecomment-2132736512)).  
 [^2]: For example, `cc jan 2025 <<<` reveals the block calendar October 2024.
