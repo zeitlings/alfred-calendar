@@ -1,11 +1,12 @@
 
 <h1 align="center"><img src="images/icon.png" width="75" height="75"></br>Alfred Calendar++</h1>
 
-<!--
+
 <p align="center">
-	<a href="https://github.com/zeitlings/alfred-calendar/releases/latest"><img src="https://img.shields.io/github/v/release/zeitlings/alfred-calendar.svg" alt="GitHub Release"></a>
+	<a href="https://github.com/zeitlings/alfred-calendar/releases/latest"><img src="https://img.shields.io/github/v/release/zeitlings/alfred-calendar?logo=alfred&label=download
+	" alt="GitHub Release"></a>
 </p>
--->
+
 
 A feature-rich block calendar workflow with Apple Calendar integration to __view__, __create__, and __search__ calendar events, or to check your upcoming __agenda__.
 
