@@ -3,8 +3,7 @@
 
 
 <p align="center">
-	<a href="https://github.com/zeitlings/alfred-calendar/releases/latest"><img src="https://img.shields.io/github/v/release/zeitlings/alfred-calendar?logo=alfred&label=download
-	" alt="GitHub Release"></a>
+	<a href="https://github.com/zeitlings/alfred-calendar/releases/latest"><img src="https://img.shields.io/github/v/release/zeitlings/alfred-calendar?logo=alfred&label=download" alt="GitHub Release"></a>
 </p>
 
 
