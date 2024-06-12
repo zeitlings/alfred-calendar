@@ -122,7 +122,7 @@ __Type__ to find events based on your query.
 
 ## Acknowledgements
 
-- [SwiftyChrono](https://github.com/malcommac/SwiftyChrono) for natural language dates parsing
+- [SwiftyChrono](https://github.com/malcommac/SwiftyChrono) for natural language date parsing
 
 
 
