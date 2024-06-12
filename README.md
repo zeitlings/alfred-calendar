@@ -121,7 +121,7 @@ __Type__ to find events based on your query.
 
 
 [^1]: If the access problem persists, try dragging the `calpp` executable into the list of apps with access (see [#2](https://github.com/zeitlings/alfred-calendar/issues/2#issuecomment-2132736512)).  
-[^2]: For example, `cc jan 2025 <<<` reveals the block calendar October 2024.
+[^2]: For example, `cc jan 2025 <<<` reveals the block calendar for October 2024.
 [^3]: Only `+` and `-` symbols at the very beginning or end will be considered to ensure their normal use everywhere else.
 
 
