@@ -83,8 +83,7 @@ Quick access keyword: `ccn`
 
 1. __Type__ to specify the new event.
 + `<` or `>` to modify the day
-+ `+` or `-` to modify the time
-	- > __Note__: Only `+` and `-` symbols at the very beginning or end will be considered to ensure their normal use everywhere else.
++ `+` or `-` to modify the time[^3]
 + `(note)` to add a note
 + `(@location)` to add a location
 + `(=calendar)` to specify a calendar
@@ -125,7 +124,7 @@ __Type__ to find events based on your query.
 
 [^1]: If the access problem persists, try dragging the `calpp` executable into the list of apps with access (see [#2](https://github.com/zeitlings/alfred-calendar/issues/2#issuecomment-2132736512)).  
 [^2]: For example, `cc jan 2025 <<<` reveals the block calendar October 2024.
-
+[^3]: Only `+` and `-` symbols at the very beginning or end will be considered to ensure their normal use everywhere else.
 
 
 
