@@ -47,11 +47,11 @@ Quick access keywords for the __agenda__, creating __new events__, and the globa
 3. __On Calendar Events__
 + <kbd>↩</kbd> to open the selected event in the Calendar app
 + <kbd>⌃</kbd> to view the exact time of the event or the timeline representation
-+ <kbd>⇧</kbd> to preview a location on Apple Maps or a URL associated with the event
 + <kbd>⌥</kbd><kbd>↩</kbd> to open a location in Google Maps or join a video call
 + <kbd>⌘</kbd><kbd>↩</kbd> to create a new event after the selected event
 + <kbd>fn</kbd><kbd>↩</kbd> to open a URL associated with the selected event
 + <kbd>⌘</kbd><kbd>L</kbd> to view the digest of a calendar event's info as [Large Type](https://www.alfredapp.com/help/features/large-type)
++ <kbd>⌘</kbd><kbd>Y</kbd> (or tap <kbd>⇧</kbd>) to Quick Look preview a location on Apple Maps or a URL associated with the event
 
 
 
@@ -67,11 +67,11 @@ Quick access keyword: `cca`
 2. __On Calendar Events__
 + <kbd>↩</kbd> to open the selected event in the Calendar app
 + <kbd>⌃</kbd> to view the exact time of the event
-+ <kbd>⇧</kbd> to preview a location on Apple Maps or a URL associated with the event
 + <kbd>⌥</kbd><kbd>↩</kbd> to open a location in Google Maps or join a video call
 + <kbd>⌘</kbd><kbd>↩</kbd> to create a new event after the selected event
 + <kbd>fn</kbd><kbd>↩</kbd> to open a URL associated with the selected event
 + <kbd>⌘</kbd><kbd>L</kbd> to view the digest of a calendar event's info as [Large Type](https://www.alfredapp.com/help/features/large-type)
++ <kbd>⌘</kbd><kbd>Y</kbd> (or tap <kbd>⇧</kbd>) to Quick Look preview a location on Apple Maps or a URL associated with the event
 
 
 
@@ -91,7 +91,7 @@ Quick access keyword: `ccn`
 + `!allday` to create an all day event
 + `https://example.com` to add a URL to the event
 2. <kbd>⌥</kbd> to view the cheat sheet
-3. <kbd>⌘</kbd><kbd>L</kbd> to view the info of the new calendar event as [large type](https://www.alfredapp.com/help/features/large-type)
+3. <kbd>⌘</kbd><kbd>L</kbd> to view the info of the new calendar event as [Large Type](https://www.alfredapp.com/help/features/large-type)
 
 > [!NOTE] 
 > Date information is automatically parsed from natural language
