@@ -18,7 +18,7 @@ A feature-rich block calendar workflow with Apple Calendar integration to __view
 
 ## How to Use
 
-Activate the workflow with the keyword (default: `cc`) or by using the [hotkey](https://www.alfredapp.com/help/workflows/triggers/hotkey/). 
+Activate the workflow with the keyword (default: `cc`) or by using the [Hotkey](https://www.alfredapp.com/help/workflows/triggers/hotkey/). 
 Quick access keywords for the __agenda__, creating __new events__, and the global __search__ are derived from the keyword by appending __a__, __n__, or __s__: `cca`, `ccn`, `ccs`.
 
 
@@ -51,7 +51,7 @@ Quick access keywords for the __agenda__, creating __new events__, and the globa
 + <kbd>⌥</kbd><kbd>↩</kbd> to open a location in Google Maps or join a video call
 + <kbd>⌘</kbd><kbd>↩</kbd> to create a new event after the selected event
 + <kbd>fn</kbd><kbd>↩</kbd> to open a URL associated with the selected event
-+ <kbd>⌘</kbd><kbd>L</kbd> to view the digest of a calendar event's info as [large type](https://www.alfredapp.com/help/features/large-type)
++ <kbd>⌘</kbd><kbd>L</kbd> to view the digest of a calendar event's info as [Large Type](https://www.alfredapp.com/help/features/large-type)
 
 
 
@@ -66,12 +66,12 @@ Quick access keyword: `cca`
 1. __Type__ to filter upcoming events based on your query
 2. __On Calendar Events__
 + <kbd>↩</kbd> to open the selected event in the Calendar app
-+ <kbd>⌃</kbd> to view the exact time of the event or the timeline representation
++ <kbd>⌃</kbd> to view the exact time of the event
 + <kbd>⇧</kbd> to preview a location on Apple Maps or a URL associated with the event
 + <kbd>⌥</kbd><kbd>↩</kbd> to open a location in Google Maps or join a video call
 + <kbd>⌘</kbd><kbd>↩</kbd> to create a new event after the selected event
 + <kbd>fn</kbd><kbd>↩</kbd> to open a URL associated with the selected event
-+ <kbd>⌘</kbd><kbd>L</kbd> to view the digest of a calendar event's info as [large type](https://www.alfredapp.com/help/features/large-type)
++ <kbd>⌘</kbd><kbd>L</kbd> to view the digest of a calendar event's info as [Large Type](https://www.alfredapp.com/help/features/large-type)
 
 
 
