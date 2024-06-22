@@ -13,7 +13,6 @@ A feature-rich block calendar workflow with Apple Calendar integration to __view
 
 1. Install the [SF Pro font](https://developer.apple.com/fonts/) from Apple to see the icons
 2. Ensure Alfred has [permission](https://www.alfredapp.com/help/getting-started/permissions/) to access calendar events[^1]
-3. Ensure you are not using an Alfred default theme
 
 
 ## How to Use
