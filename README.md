@@ -119,6 +119,13 @@ __Type__ to find events based on your query.
 - <img src="images/symbols/videocall.png" width="25"> An online meeting is associated with the event
 
 
+## Configuration 
+
+After you make changes to the configuration, you need to clear the cache for the changes to take effect immediately. You can view the internal configuration via `cc ?`.
+
+<img src="images/previews/6-meta.png" width="550">
+
+
 ## Acknowledgements
 
 - [SwiftyChrono](https://github.com/quire-io/SwiftyChrono) for natural language date parsing
